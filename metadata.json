@@ -1,0 +1,6 @@
+{
+  "name": "100GB — Unified Cloud Explorer",
+  "description": "Discover free cloud storage, compare verified provider plans, estimate storage needs, and organize your preferred cloud services in one workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
