@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Title Page Information (Placeholders for College Submission)
+## 1. Title Page Information
 
 - **Project Title:** 100GB — Unified Resource & Cloud Explorer (URCE)
 - **Course / Subject:** Mini Project — Computer Science and Engineering (Web Application Development)
